@@ -22,22 +22,21 @@ I'm a **software engineering student** and an **entrepreneur** based in Finland 
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arttuputtonen&show_icons=true&theme=github_dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arttuputtonen&layout=compact&theme=github_dark&hide_border=true)
-
----
-
-## 🔥 Streak Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arttuputtonen&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![Arttu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arttuputtonen&show_icons=true&theme=tokyonight)
 
 ---
 
-## 📈 Contribution Graph
+### 🔥 Streak Stats
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=arttuputtonen&bg_color=0d1117&color=ffffff&line=5ddcff&point=ffffff&area=true&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=arttuputtonen&theme=tokyonight)
+
+---
+
+### 📈 Contribution Graph
+
+[![Arttu's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=arttuputtonen&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
