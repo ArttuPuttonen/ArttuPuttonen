@@ -56,7 +56,6 @@ I'm a **software engineering student** and an **entrepreneur** based in Finland 
 ## 🤝 Let's Connect
 
 - 🌐 [Portfolio Website](https://arttuputtonen.com/)
-- 📫 [Email](contact@arttuputtonen.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/arttu-puttonen-733b9829b/?locale=en_US)
 - 📷 [Instagram](https://www.instagram.com/arddup)
 
