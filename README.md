@@ -47,10 +47,6 @@ I'm a **software engineering student** and an **entrepreneur** based in Finland 
 ![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-181717?style=flat&logo=githubcopilot&logoColor=white)
 ---
 
-### 📊 GitHub Stats
-
-![Arttu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arttuputtonen&show_icons=true&theme=tokyonight)
-
 
 
 ## 🤝 Let's Connect
